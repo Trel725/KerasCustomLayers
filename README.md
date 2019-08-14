@@ -2,7 +2,7 @@
 A set of custom keras layers for experimentation
 
 ## CustomPooling.py
-This file contains a class CustomPooling.
+This file contains a class UniPooling.
 This class implements pooling layer with easily
 customizable method of pooling. Tensorflow has only two
 built-in pooling methods, MAX and AVERAGE, while here
