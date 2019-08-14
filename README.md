@@ -1,7 +1,7 @@
 # KerasCustomLayers
 A set of custom keras layers for experimentation
 
-##CustomPooling.py
+## CustomPooling.py
 This file contains a class CustomPooling.
 This class implements pooling layer with easily
 customizable method of pooling. Tensorflow has only two
